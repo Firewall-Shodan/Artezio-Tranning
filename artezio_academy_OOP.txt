@@ -1,0 +1,32 @@
+Кратко опишите, какие принципы ООП вы используете при разработке приложений (на каких этапах, обосновать)
+
+
+для разработки веб-систем или приложений я использую фреймворк django и bootstrap 3
+
+для мобильных приложений я использую kivy framework и набор библиотек, родных для python.
+
+О ООП я думаю, что это лучший способ программирования,
+ потому что есть такие механизмы как: 
+
+конструкторы и методы, атрибуты, 
+ассоциации и функции, объекты и классы, 
+наследование и полиморфизм, метаклассы, 
+свойства и дескриптор.
+
+Я работаю с языком Python более 3 года.
+
+
+
+to develop web systems or applications I use django framework and bootstrap 3
+
+for mobile applications I use kivy framework and a set of libraries native to python.
+
+On OOP I think it is the best way to program because there are mechanisms like: 
+
+constructors and methods, attributes, 
+associations and functions, objects and classes,
+inheritance and polymorphism, MetaClasses,
+properties and descriptors.
+
+
+i work with python language more than 3 years.
